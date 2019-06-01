@@ -1,4 +1,0 @@
-public static void main(){
-Test ()1
-
-}
